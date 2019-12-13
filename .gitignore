@@ -156,6 +156,7 @@ debug.log
 
 data/
 !/data/*/metadata
+!/data/hybrids
 
 results/
 !/results/jupyter/
