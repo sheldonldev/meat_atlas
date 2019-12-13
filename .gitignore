@@ -2,10 +2,8 @@
 debug.log
 
 data/
-!/data/*/metadata
 
 results/
-!/results/jupyter/
 
 python_scripts/
 discussion/
@@ -173,3 +171,5 @@ results/jupyter/FAO_Population.ipynb
 FAO_description_path
 
 !/requirements.txt
+!/results/jupyter/
+!/data/*/metadata
