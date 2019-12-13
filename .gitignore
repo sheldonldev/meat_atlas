@@ -152,17 +152,14 @@ dmypy.json
 .idea/modules.xml
 .idea/vcs.xml
 
+
+
+# User defined
+
 debug.log
 
-data/FAO
-data/USDA
+/results
+!/results/jupyter/
 
-results/
-!/results/jupyter/*
-
-python_scripts/
-discussion/
-others/
-
-
-!/data/FAO/metadata/*
+/data/FAO
+!/data/FAO/metadata/
