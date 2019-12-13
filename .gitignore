@@ -5,7 +5,6 @@ data/
 !/data/*/metadata
 
 results/
-
 !/results/jupyter/
 
 python_scripts/
@@ -173,3 +172,4 @@ requirements.txt
 results/jupyter/FAO_Population.ipynb
 FAO_description_path
 
+!/requirements.txt
