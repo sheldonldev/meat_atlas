@@ -161,5 +161,7 @@ debug.log
 /results
 !/results/jupyter/
 
-/data/FAO
+/data
+!/data/NBS
+!/data/hybrids
 !/data/FAO/metadata/
