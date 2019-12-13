@@ -158,7 +158,7 @@ data/FAO
 data/USDA
 
 results/
-!/results/jupyter/
+!/results/jupyter/*
 
 python_scripts/
 discussion/
