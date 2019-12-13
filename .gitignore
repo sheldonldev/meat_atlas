@@ -154,9 +154,8 @@ dmypy.json
 
 debug.log
 
-data/
-!/data/*/metadata
-!/data/hybrids
+data/FAO
+data/USDA
 
 results/
 !/results/jupyter/

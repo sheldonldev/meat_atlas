@@ -1,0 +1,38 @@
+Item-En,项目名称: Item_Cn,Explanation-En,中文解释: Explanation-Cn,Unit-En,单位: Unit-Cn,Remarek-En,备注: Remark-Cn
+Area,地区,"Name of countries, areas or China's provinces (or provincial level areas of China)",国家、地区或中国省份（或中国省级地区）的名字；,10000 heads,万头,,
+Year,年份,Years.,年份,10000 heads,万头,,
+"Stock, cattle",存栏量_牛,Numbers of stocks of cattle.,牛的存栏量,10000 heads,万头,,
+"Stock, goat & sheep",存栏量_山羊&绵羊,Numbers of stocks of the total of goats and sheep.,山羊和绵羊的总存栏量,10000 heads,万头,,
+"Stock, pig",存栏量_猪,Numbers of stocks of pigs.,猪的存栏量,10000 heads,万头,,
+"Stock, birds",存栏量_禽类,Numbers of stocks of birds.,禽类的存栏量,10000 heads,万头," Areas data estimated by (each year's 'Slaughtered, birds' of cn / each year's 'Stock, birds' of cn) = ('Slaughtered, birds' in areas of same year / 'Stock, birds' in areas of same year).",地方数据根据 (每年全国'屠宰量_禽类' / 每年全国'存栏量_禽类' = 同年各地'屠宰量_禽类' /同年各地'存栏量_禽类') 估算
+"Slaughtered, cattle",屠宰量_牛,Numbers of slaughtered cattle for meat.,牛的屠宰数量（出栏量）,10000 heads,万头,,
+"Slaughtered, goat & sheep",屠宰量_山羊&绵羊,Numbers of slaughtered goats and sheep for meat.,山羊和绵羊的屠宰数量（出栏量）,10000 heads,万头,,
+"Slaughtered, pig",屠宰量_猪,Numbers of slaughtered pigs for meat.,猪的屠宰数量（出栏量）,10000 heads,万头,,
+"Slaughtered, birds",屠宰量_禽类,"Numbers of slaughtered birds for meat, mainly from chicken and duck.",禽类的屠宰数量（出栏量）,10000 heads,万头,,
+"Meat Production, cattle",肉产量_牛,Weights of meat produced by cattle.,来自牛的肉类产量,10000 tonnes,万吨,,
+"Meat Production, goat & sheep",肉产量_山羊&绵羊,Weights of meat produced by goat and sheep.,来自山羊和绵羊的肉类产量,10000 tonnes,万吨,,
+"Meat Production, pig",肉产量_猪,Weights of meat produced by pig.,来自猪的肉类产量,10000 tonnes,万吨,,
+"Meat Production, birds",肉产量_禽类,"Weights of meat produced by birds, ainly from chicken and duck. ",来自禽类的肉类产量,10000 tonnes,万吨,"Areas data estimated by ('Meat Yield, birds' * 'Slaughtered, birds').",地方数据通过 (‘屠宰量_鸡’ × 当年全国的‘单位产量_鸡’) 估算
+"Egg Production, birds",蛋产量,"Weights of eggs produced by birds, mainly from chicken and duck.",禽蛋产量，主要包括鸡和鸭,10000 tonnes,万吨,,
+"Milk Production, cow",奶产量_牛,Weights of fresh milk produced by cow.,新鲜牛奶产量,10000 tonnes,万吨,,
+"Meat Yield, cattle",单位产量_牛,Mean value of weights of meat from each cattle.,平均每头牛的产肉量,10000 tonnes,万吨,"Areas data estimated by ('Meat Production, cattle' / 'Slaughtered, cattle').",地方数据通过 (‘肉产量_牛’ / ‘屠宰量_牛’) 估算
+"Meat Yield, goat & sheep",单位产量_山羊&绵羊,Mean value of weights of meat from each goat or sheep.,平均每只山羊或绵羊的产肉量，地方数据通过 (‘肉产量_山羊&绵羊’ / ‘屠宰量_山羊&绵羊’) 估算,10000 tonnes,万吨,"Areas data estimated by ('Meat Production, goat & sheep' / 'Slaughtered, goat & sheep').",地方数据通过 (‘肉产量_山羊&绵羊’ / ‘屠宰量_山羊&绵羊’) 估算
+"Meat Yield, pig",单位产量_猪,Mean value of weights of meat from each pig.,平均每只猪的产肉量,10000 tonnes,万吨,"Areas data estimated by ('Meat Production, pig' / 'Slaughtered, pig').",地方数据通过 (‘肉产量_猪’ / ‘屠宰量_猪’) 估算
+"Meat Yield, birds",单位产量_禽类,Mean value of weights of meat from each bird. Mainly from chicken and duck.,平均每只禽类的产肉量，主要包括鸡和鸭,10000 tonnes,万吨,"No areas data, and nulls are replaced with the national figures of the same year.",无地方数据，用同年的全国水平替代
+"Aquatic, total",水产总量,Total weights of aquatic productions.,水产品总产量,10000 tonnes,万吨,,
+"Aquatic, animals",水产肉类量,Weights of aquatic meat.,肉类水产品产量,10000 tonnes,万吨,Estimated by ('AquSum' - 'AquSW_algae'),通过 (水产总量 - 海水产量_藻类) 估算
+"Marine, total",海水产量,Weights of aquatic productions produced in sea water.,来自海水的水产品产量,10000 tonnes,万吨,,
+"Marine, capture",海水产量_捕捞,Weights of aquatic productions grown naturally and catched in sea water.,来自海洋捕捞的水产品产量,10000 tonnes,万吨,,
+"Marine, aquaculture",海水产量_养殖,Weights of aquatic productions aquacultured in sea water.,来自海水养殖的水产品产量,10000 tonnes,万吨,,
+Marine Fish,海水产量_鱼,Weights of productions from sea water fish.,来自海水的鱼类产量,10000 tonnes,万吨,,
+Marine Crustaceans,海水产量_虾蟹,Weights of productions from sea water shrimp and crab.,来自海水的虾蟹产量,10000 tonnes,万吨,,
+Marine Molluscs,海水产量_贝类,Weights of productions from sea water shellfish.,来自海水的贝类产量,10000 tonnes,万吨,,
+Marine Plants,海水产量_藻类,Weithts of productions from sea water algae.,来自海水的藻类产量,10000 tonnes,万吨,,
+"Marine, others",海水产量_其他,,,10000 tonnes,万吨,,
+"Freshwater, total",淡水产量,Weights of aquatic productions produced in fresh water.,来自淡水的水产品产量,10000 tonnes,万吨,,
+"Freshwater, capture",淡水产量_捕捞,Weights of aquatic productions grown naturally and catched in fresh water.,来自淡水捕捞的水产品产量,10000 tonnes,万吨,,
+"Freshwater, aquaculture",淡水产量_养殖,Weights of aquatic productions aquacultured in fresh water.,来自淡水养殖的水产品产量,10000 tonnes,万吨,,
+Freshwater Fish,淡水产量_鱼,Weights of productions from fresh water fish.,来自淡水的鱼类产量,10000 tonnes,万吨,,
+Freshwater Crustaceans,淡水产量_虾蟹,Weights of productions from fresh water shrimp and crab.,来自淡水的虾蟹产量,10000 tonnes,万吨,,
+Freshwater Molluscs,淡水产量_贝类,Weights of productions from fresh water shellfish.,来自淡水的贝类产量,10000 tonnes,万吨,,
+"Freshwater, others",淡水产量_其他,,,10000 tonnes,万吨,,
