@@ -5,7 +5,7 @@ data/
 !data/*/metadata/
 
 results/
-!results/code/
+!results/jupyter/
 
 python_scripts/
 discussion/
@@ -169,5 +169,5 @@ dmypy.json
 FAO_LivestockFish_FoodSupplyQuantity-Copy1.ipynb
 geojson/
 requirements.txt
-results/code/FAO_Population.ipynb
+results/jupyter/FAO_Population.ipynb
 FAO_description_path
