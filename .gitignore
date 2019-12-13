@@ -1,17 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-debug.log
-
-data/
-
-results/
-
-python_scripts/
-discussion/
-others/
-
-
-
-
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
@@ -164,12 +151,17 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
-FAO_LivestockFish_FoodSupplyQuantity-Copy1.ipynb
-geojson/
-requirements.txt
-results/jupyter/FAO_Population.ipynb
-FAO_description_path
 
-!/requirements.txt
-!/results/jupyter/
+debug.log
+
+data/
 !/data/*/metadata
+
+results/
+!/results/jupyter/
+
+python_scripts/
+discussion/
+others/
+
+
