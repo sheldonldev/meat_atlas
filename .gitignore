@@ -2,10 +2,10 @@
 debug.log
 
 data/
-!data/*/metadata/
+!data/*/metadata
 
 results/
-!results/jupyter/
+!results/jupyter
 
 python_scripts/
 discussion/
