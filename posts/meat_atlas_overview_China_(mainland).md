@@ -8,7 +8,7 @@ tags:
 status: published
 ---
 
-[BACK TO HOME](../)
+[BACK TO HOME](..)
 
 # {{page.title}}
 
@@ -26,7 +26,7 @@ updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 
 ---
-[BACK TO HOME](../)
+[BACK TO HOME](..)
 
 {% for tag in page.tags %}
   {{ tag }}
