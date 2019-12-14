@@ -8,7 +8,7 @@ tags:
 status: published
 ---
 
-[BACK TO HOME](..)
+[BACK TO HOME](https://tane-rs.github.io/meat_atlas/)
 
 # {{page.title}}
 
@@ -26,7 +26,7 @@ updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 
 ---
-[BACK TO HOME](..)
+[BACK TO HOME](https://tane-rs.github.io/meat_atlas/)
 
 {% for tag in page.tags %}
   {{ tag }}
