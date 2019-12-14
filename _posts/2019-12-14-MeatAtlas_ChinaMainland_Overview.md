@@ -13,16 +13,14 @@ status: published
 
 
 # {{page.title}}
-
-by {{page.author}} |
-published at {{page.published_at | date: "%Y-%m-%d"}} |
-updated at {{ page.updated_at | date: "%Y-%m-%d" }}
-
+|-|-|-|
+By {{page.author}} | Published at {{page.published_at | date: "%Y-%m-%d"}} | Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
+|-|-|-|
 
 ---
 
 
-hello world
+coming soon...
 
 
 
