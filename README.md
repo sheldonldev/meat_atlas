@@ -1,7 +1,6 @@
-# **Project: Meat Atla of China**
+# **Project: Meat Atlas of China**
 
-**This is a private reporsitory at present, if you can see this, pleas read the following _Legal Notices_ at first**
-**这是一个私有库，如果您看到此行提示，请先阅读以下《法律声明》**
+**请先阅读以下《法律声明》**
 
 # 法律声明 Legal Notices
 
@@ -13,61 +12,8 @@ Copyright: The content of the documents you obtained is owned by the China Biodi
 
 Trade Secrets: BDF, GFF and its staff may provide services by email, fax, mail or direct delivery. Send you the relevant information of the BDF, GFF or other internal information, which are the trade secrets of  BDF and GFF. You should be kept confidential when you contact and understand the trade secrets, and you should not provide it to any third party without special written permission of  BDF and GFF.
 
-# **封面 Cover Page**
-@贪杯
 
-@良食基金
-
-@Bright Green
-
-Title：
-
-Authers (with affiliations and contacts):
-
-Publisher:
-
-Publish Date:
-
-Latest Update:
-
-
-# **目录 Table of Contents**
-@Sheldon
-
-@贪杯
-
-# **名词解释 Glossary**
-@Sheldon
-
-
-# **前言 Introduction**
-@Sheldon
-
-@Atom
-
-# **材料与方法 Methodology**
-@Sheldon
-
-
-# **结果 Results**
-@Sheldon
-
-# **讨论 Discussion**
-@Atom
-
-# **结论 Conclusion**
-
-@Atom
-
-@Sheldon
-
-# **参考 References**
-
-@Atom
-
-@Sheldon
-
-# **致谢 Acknowledgement**
+# 致谢 Acknowledgement
 
 @良食基金
 
