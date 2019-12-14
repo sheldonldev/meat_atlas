@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meat Atlas of China
+title: Meat Atlas of China - Overview
 published_at: "2019-12-14"
 updated_at: "2019-12-14"
 author: Good Food Data
@@ -13,9 +13,9 @@ status: published
 
 
 # {{page.title}}
-|-|-|-|
-By {{page.author}} | Published at {{page.published_at | date: "%Y-%m-%d"}} | Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
-|-|-|-|
+By {{page.author}} | 
+Published at {{page.published_at | date: "%Y-%m-%d"}} | 
+Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
