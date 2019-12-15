@@ -161,6 +161,7 @@ debug.log
 
 /results/*
 !/results/jupyter/
+!/results/CN_FoodConsumption/
 
 
 /data/FAO/*
