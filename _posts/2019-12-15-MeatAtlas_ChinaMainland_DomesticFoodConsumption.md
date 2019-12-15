@@ -7,13 +7,11 @@ author: Good Food Data
 tags: []
 status: published
 
-results_img: '../results/CN_FoodConsumption/img'
 ---
 
 
 [BACK TO HOME](https://tane-rs.github.io/meat_atlas/)
 
-![img]({{results_img}}/)
 
 # {{page.title}}
 By {{page.author}} | 
@@ -23,7 +21,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 ---
 
 
-coming soon...
+![img](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
+![](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
 
 
 
