@@ -22,7 +22,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 <table>
     <tr>
-        <td ><center><img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/map/01-Bovine Meat Consumption as a Percentage of the Nation in 2017.png"/><p>Fig 1.1.a</p></center></td>
+        <td colspan="2"><center><img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/map/01-Bovine Meat Consumption as a Percentage of the Nation in 2017.png"/><p>Fig 1.1.a</p></center></td>
     </tr>
     <tr>
         <td ><center><img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Bovine Meat Consumption as a Percentage of Nation in 2017-bar.png"/><p>Fig 1.1.a</p></center></td>
