@@ -20,9 +20,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
+<div class="row">
+      <div class="col s1 m2">
+        ![Pigmeat Consumption Total](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
+        ![Pigmeat Consumption Total](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
+      </div>
+</div>
 
-![img](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
-![](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
 
 
 
