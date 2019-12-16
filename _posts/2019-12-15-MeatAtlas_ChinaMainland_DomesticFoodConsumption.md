@@ -27,6 +27,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
       </div>
 </div>
 
+![Pigmeat Consumption as a Percentage of the Nation](../results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of the Nation in 2017-bar.png)
+
 
 
 
