@@ -35,6 +35,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.1.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Pigmeat Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.1.c</p>
@@ -55,6 +57,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Bovine Meat Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.2.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Bovine Meat Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.2.c</p>
@@ -75,6 +79,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Mutton & Goat Meat Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.3.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Mutton & Goat Meat Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.3.c</p>
@@ -95,6 +101,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Poultry Meat Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.4.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Poultry Meat Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.4.c</p>
@@ -115,6 +123,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Fish, Seafood Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.5.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Fish, Seafood Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.5.c</p>
@@ -135,6 +145,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Eggs Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.6.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Eggs Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.6.c</p>
@@ -155,6 +167,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Milk Consumption as a Percentage of Nation in 2017-bar.png"/>
             <p>Fig 1.7.b</p>
         </center></td>
+    </tr>
+    <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/01-Milk Consumption as a Percentage of Nation in 2017-pie.png"/>
             <p>Fig 1.7.c</p>
