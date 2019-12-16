@@ -208,7 +208,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 2.3.a</p>
         </center></td>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/02-Percentages of Kinds of Animal Products in Daily Intake (2017, Rural).png">
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/02-Percentages of Kinds of Animal Products in Daily Intake (2017, Urban).png">
             <p>Fig 2.3.b</p>
         </center></td>
     </tr>
