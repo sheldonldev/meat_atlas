@@ -158,6 +158,7 @@ dmypy.json
 
 debug.log
 
+/templates
 
 /results/*
 !/results/CN_FoodConsumption/
