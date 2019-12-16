@@ -31,10 +31,6 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-[map](../results/CN_FoodConsumption/map/01-Bovine%20Meat%20Consumption%20as%20a%20Percentage%20of%20the%20Nation%20in%202017.html)
-
-
-
 
 
 
