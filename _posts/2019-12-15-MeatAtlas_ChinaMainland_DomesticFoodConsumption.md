@@ -220,7 +220,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <!--Map of Kinds of-->
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/03-Percentage of Pigmeat in Daily intake (2017, Rural).png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/map/03-Percentage of Pigmeat in Daily Intake (2017, Rural).png"/>
             <p>Fig 3.1.a</p>
         </center></td>
         <td><center>
@@ -231,7 +231,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <!--Bar of Kinds of-->
     <tr>
         <td ><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/03-Percentage of Pigmeat in Daily intake (2017, Rural).png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_FoodConsumption/img/03-Percentage of Pigmeat in Daily Intake (2017, Rural).png"/>
             <p>Fig 3.1.c</p>
         </center></td>
         <td ><center>
