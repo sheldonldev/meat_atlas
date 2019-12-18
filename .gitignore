@@ -165,6 +165,7 @@ debug.log
 !/results/CN_AnimalProduction/
 
 /data/hybrids/*
+/data/NBS/*
 
 /data/FAO/*
 !/data/FAO/metadata
@@ -172,7 +173,7 @@ debug.log
 /data/USDA/*
 !/data/USDA/metadata
 
-/data/NBS/*
+
 
 
 
