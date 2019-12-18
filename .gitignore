@@ -162,6 +162,7 @@ debug.log
 
 /results/*
 !/results/CN_FoodConsumption/
+!/results/CN_AnimalProduction/
 
 /data/hybrids/*
 
