@@ -37,7 +37,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
     <tr>
         <td ><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_AnimalProduction/img/01-Outputs of Animal Produced Food in China (mainland)-bar.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_AnimalProduction/img/01-Percentages (%) of Outputs of Animal Produced Food in China (mainland).png"/>
             <p>Fig 1.1.c</p>
             <img src="">
         </center></td>
