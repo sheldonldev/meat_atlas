@@ -215,7 +215,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_AnimalProduction/img/03-Main Indicators of Cattle Productivity.png.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_AnimalProduction/img/03-Main Indicators of Cattle Productivity.png"/>
             <p>Fig 1.1.a</p>
         </center></td>
     </tr>
@@ -233,7 +233,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_AnimalProduction/img/03-Main Indicators of Goat & Sheep Productivity.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/CN_AnimalProduction/img/03-Main Indicators of Birds Productivity.png"/>
             <p>Fig 1.1.a</p>
         </center></td>
     </tr>
