@@ -154,9 +154,13 @@ dmypy.json
 
 
 
+# User defined files
+debug.log
+README.md
+
 # User defined folders
 
-debug.log
+
 
 /data_cleaning
 
@@ -171,6 +175,8 @@ debug.log
 /results/*
 !/results/CN_FoodConsumption/
 !/results/CN_AnimalProduction/
+!/results/FAO_CommodityBalances_LivestockFish/
+!/results/FAO_FoodSupply_LivestockFish/
 
 /templates
 
