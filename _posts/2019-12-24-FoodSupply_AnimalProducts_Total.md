@@ -291,7 +291,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-#### Percentages (Show in Bar and Pie Respectively
+#### Percentages (Show in Pie)
 <table>
     <tr>
         <td><center>
@@ -301,7 +301,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of China mainland as Percentages (%) in the World's Main Animal Productions_Pie.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of OECD as Percentages (%) in the World's Main Animal Productions_Pie.png"/>
             <p>Fig 4.4.b</p>
         </center></td>
     </tr>
@@ -358,7 +358,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### North America
 <table>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Northern America_Bar.png"/>
             <p>Fig 6.1.a</p>
@@ -377,13 +377,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Western Europe_Bar.png"/>
-            <p>Fig 6.2.a</p>
+            <p>Fig 6.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Western Europe.png"/>
-            <p>Fig 6.2.b</p>
+            <p>Fig 6.1.b</p>
         </center></td>
     </tr>
 </table>
@@ -393,13 +393,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Australia & New Zealand_Bar.png"/>
-            <p>Fig 6.3.a</p>
+            <p>Fig 6.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Australia & New Zealand.png"/>
-            <p>Fig 6.3.b</p>
+            <p>Fig 6.1.b</p>
         </center></td>
     </tr>
 </table>
@@ -409,13 +409,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in South-Eastern Asia_Bar.png"/>
-            <p>Fig 6.4.a</p>
+            <p>Fig 6.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in South-Eastern Asia.png"/>
-            <p>Fig 6.4.b</p>
+            <p>Fig 6.1.b</p>
         </center></td>
     </tr>
 </table>
@@ -425,13 +425,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Japan_Bar.png"/>
-            <p>Fig 6.5.a</p>
+            <p>Fig 6.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Japan.png"/>
-            <p>Fig 6.5.b</p>
+            <p>Fig 6.1.b</p>
         </center></td>
     </tr>
 </table>
@@ -441,13 +441,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Republic Of Korea_Bar.png"/>
-            <p>Fig 6.6.a</p>
+            <p>Fig 6.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Republic Of Korea.png"/>
-            <p>Fig 6.6.b</p>
+            <p>Fig 6.1.b</p>
         </center></td>
     </tr>
 </table>
