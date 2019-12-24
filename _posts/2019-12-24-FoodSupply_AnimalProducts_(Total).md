@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Meat Atlas of China (mainland) - Domestic Consumption of Animal Produced Food
-published_at: "2019-12-14"
-updated_at: "2019-12-16"
+published_at: "2019-12-24"
+updated_at: "2019-12-24"
 author: Good Food Data
 tags: []
 status: published
