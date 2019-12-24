@@ -31,7 +31,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
     <tr>
         <td ><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_01_Trends of Food Supply Quantity in China Mainland_Bar.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in China Mainland_Bar.png"/>
             <p>Fig 1.1.b</p>
         </center></td>
     </tr>
@@ -64,13 +64,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 3.1.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Pigmeat_1993.png"/>
             <p>Fig 3.1.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Pigmeat_2013.png"/>
             <p>Fig 3.1.c</p>
@@ -81,18 +81,18 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 ### Bovine Meat
 <table>
     <tr>
-        <td><center>
+    <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Bovine Meat_1973.png"/>
             <p>Fig 3.2.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Bovine Meat_1993.png"/>
             <p>Fig 3.2.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Bovine Meat_2013.png"/>
             <p>Fig 3.2.c</p>
@@ -108,13 +108,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 3.3.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Mutton & Goat Meat_1993.png"/>
             <p>Fig 3.3.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Mutton & Goat Meat_2013.png"/>
             <p>Fig 3.3.c</p>
@@ -130,13 +130,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 3.4.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Poultry Meat_1993.png"/>
             <p>Fig 3.4.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Poultry Meat_2013.png"/>
             <p>Fig 3.4.c</p>
@@ -152,13 +152,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 3.5.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Fish, Seafood_1993.png"/>
             <p>Fig 3.5.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Fish, Seafood_2013.png"/>
             <p>Fig 3.5.c</p>
@@ -174,13 +174,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 3.6.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Eggs_1993.png"/>
             <p>Fig 3.6.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Eggs_2013.png"/>
             <p>Fig 3.6.c</p>
@@ -192,19 +192,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Milk-Excluding Butter_1973.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Milk Excluding Butter_1973.png"/>
             <p>Fig 3.7.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Milk-Excluding Butter_1993.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Milk Excluding Butter_1993.png"/>
             <p>Fig 3.7.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Milk-Excluding Butter_2013.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Total_03_01_Food Supply Quantity _Milk Excluding Butter_2013.png"/>
             <p>Fig 3.7.c</p>
         </center></td>
     </tr>
@@ -220,40 +220,39 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 4.1.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Bovine Meat of China Mainland with Other Areas.png"/>
             <p>Fig 4.1.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Mutton & Goat Meat of China Mainland with Other Areas.png"/>
             <p>Fig 4.1.c</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Poultry Meat of China Mainland with Other Areas.png"/>
             <p>Fig 4.1.d</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Fish, Seafood of China Mainland with Other Areas.png"/>
             <p>Fig 4.1.e</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Eggs of China Mainland with Other Areas.png"/>
             <p>Fig 4.1.f</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Milk-Excluding Butter of China Mainland with Other Areas.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_02_Compare Total Food Supply Quantity of Milk Excluding Butter of China Mainland with Other Areas.png"/>
             <p>Fig 4.1.g</p>
         </center></td>
     </tr>
@@ -267,6 +266,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of China mainland in the World.png"/>
             <p>Fig 4.2.a</p>
         </center></td>
+    </tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of OECD in the World.png"/>
             <p>Fig 4.2.b</p>
@@ -274,26 +275,31 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-#### Percentages (Show in Bar and Pie Respectively)
+#### Percentages (Show in Bar)
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of China mainland as Percentages (%) in the World's Main Animal Productions_Bar.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of China mainland as Percentages (%) in the World_Bar.png"/>
             <p>Fig 4.3.a</p>
         </center></td>
+    </tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of OECD as Percentages (%) in the World's Main Animal Productions_Bar.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of OECD as Percentages (%) in the World_Bar.png"/>
             <p>Fig 4.3.b</p>
         </center></td>
     </tr>
 </table>
 
+#### Percentages (Show in Bar and Pie Respectively
 <table>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of China mainland as Percentages (%) in the World's Main Animal Productions_Pie.png"/>
             <p>Fig 4.4.a</p>
         </center></td>
+    </tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_03_Food supply quantity of China mainland as Percentages (%) in the World's Main Animal Productions_Pie.png"/>
             <p>Fig 4.4.b</p>
@@ -306,44 +312,43 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Pigmeat: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Pigmeat: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.a</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Bovine Meat: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Bovine Meat: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.b</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Mutton & Goat Meat: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Mutton & Goat Meat: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.c</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Poultry Meat: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Poultry Meat: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.d</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Fish, Seafood: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Fish, Seafood: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.e</p>
         </center></td>
     </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Eggs: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Eggs: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.f</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Milk-Excluding Butter: China Mainland Vs. World Top 5_Pigmeat.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_03_04_Food Supply Quantity of Milk Excluding Butter: China Mainland Vs. World Top 5.png"/>
             <p>Fig 5.1.g</p>
         </center></td>
     </tr>
@@ -353,15 +358,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### North America
 <table>
-    </tr>
         <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Northern America_Bar.png"/>
             <p>Fig 6.1.a</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Northern America.png"/>
             <p>Fig 6.1.b</p>
@@ -371,15 +374,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### Western Europe
 <table>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Western Europe_Bar.png"/>
             <p>Fig 6.2.a</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Western Europe.png"/>
             <p>Fig 6.2.b</p>
@@ -389,15 +390,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### Australia & New Zealand
 <table>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Australia & New Zealand_Bar.png"/>
             <p>Fig 6.3.a</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Australia & New Zealand.png"/>
             <p>Fig 6.3.b</p>
@@ -407,15 +406,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### South-Eastern Asia
 <table>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in South-Eastern Asia_Bar.png"/>
             <p>Fig 6.4.a</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in South-Eastern Asia.png"/>
             <p>Fig 6.4.b</p>
@@ -425,15 +422,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### Japan
 <table>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Japan_Bar.png"/>
             <p>Fig 6.5.a</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Japan.png"/>
             <p>Fig 6.5.b</p>
@@ -443,17 +438,15 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### Republic of Korea
 <table>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Republic of Korea_Bar.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_02_Trends of Food Supply Quantity in Republic Of Korea_Bar.png"/>
             <p>Fig 6.6.a</p>
         </center></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Republic of Korea.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Total_01_03_Percentages (%) of Food Supply Quantity in Republic Of Korea.png"/>
             <p>Fig 6.6.b</p>
         </center></td>
     </tr>
