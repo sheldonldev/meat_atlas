@@ -20,7 +20,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
-## 1 Trends of Food Supply of Main Animal Products of China (manland)
+## Trends of Food Supply of Main Animal Products of China (manland)
 
 <table>
     <tr>
@@ -44,7 +44,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## 2 Changes in World Rankings of China (mainland)
+## Changes in World Rankings of China (mainland)
 
 <table>
     <tr>
@@ -55,7 +55,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## 3 World Map as Time Changing
+## World Map as Time Changing
 ### Pigmeat
 <table>
     <tr>
@@ -211,7 +211,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-## 4 Compare With OECD Total
+## Compare With OECD Total
 #### Trend Lines
 <table>
     <tr>
@@ -307,7 +307,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## 5 Compare with World's Top 5
+## Compare with World's Top 5
 
 <table>
     <tr>
@@ -354,7 +354,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## 6 Some Other Areas Trends
+## Some Other Areas Trends
 
 ### North America
 <table>
