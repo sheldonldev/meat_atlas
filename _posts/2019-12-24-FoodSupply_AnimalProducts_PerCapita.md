@@ -84,19 +84,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Bovine Meat_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 3.2.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Bovine Meat_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 3.2.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Bovine Meat_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 3.2.c</p>
         </center></td>
     </tr>
 </table>
@@ -106,19 +106,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Mutton & Goat Meat_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 3.3.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Mutton & Goat Meat_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 3.3.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Mutton & Goat Meat_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 3.3.c</p>
         </center></td>
     </tr>
 </table>
@@ -128,19 +128,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Poultry Meat_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 3.4.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Poultry Meat_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 3.4.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Poultry Meat_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 3.4.c</p>
         </center></td>
     </tr>
 </table>
@@ -150,19 +150,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Fish, Seafood_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 3.5.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Fish, Seafood_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 3.5.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Fish, Seafood_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 3.5.c</p>
         </center></td>
     </tr>
 </table>
@@ -172,19 +172,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Eggs_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 3.6.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Eggs_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 3.6.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Eggs_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 3.6.c</p>
         </center></td>
     </tr>
 </table>
@@ -194,19 +194,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Milk Excluding Butter_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 3.7.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Milk Excluding Butter_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 3.7.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply quantity (gcapitaday)_03_01_Food Supply Quantity _Milk Excluding Butter_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 3.7.c</p>
         </center></td>
     </tr>
 </table>
@@ -222,37 +222,37 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_03_02_Compare Per Capita Food Supply Quantity of Bovine Meat of China Mainland with Other Areas.png"/>
-            <p>Fig 4.1.a</p>
+            <p>Fig 4.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_03_02_Compare Per Capita Food Supply Quantity of Mutton & Goat Meat of China Mainland with Other Areas.png"/>
-            <p>Fig 4.1.a</p>
+            <p>Fig 4.1.c</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_03_02_Compare Per Capita Food Supply Quantity of Poultry Meat of China Mainland with Other Areas.png"/>
-            <p>Fig 4.1.a</p>
+            <p>Fig 4.1.d</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_03_02_Compare Per Capita Food Supply Quantity of Fish, Seafood of China Mainland with Other Areas.png"/>
-            <p>Fig 4.1.a</p>
+            <p>Fig 4.1.e</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_03_02_Compare Per Capita Food Supply Quantity of Eggs of China Mainland with Other Areas.png"/>
-            <p>Fig 4.1.a</p>
+            <p>Fig 4.1.f</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_03_02_Compare Per Capita Food Supply Quantity of Milk Excluding Butter of China Mainland with Other Areas.png"/>
-            <p>Fig 4.1.a</p>
+            <p>Fig 4.1.g</p>
         </center></td>
     </tr>
 </table>
@@ -264,13 +264,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_02_Trends of Food Supply Quantity in Northern America_Bar.png"/>
-            <p>Fig 6.1.a</p>
+            <p>Fig 5.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_03_Percentages (%) of Food Supply Quantity in Northern America.png"/>
-            <p>Fig 6.1.b</p>
+            <p>Fig 5.1.b</p>
         </center></td>
     </tr>
 </table>
@@ -280,13 +280,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_02_Trends of Food Supply Quantity in Western Europe_Bar.png"/>
-            <p>Fig 6.1.a</p>
+            <p>Fig 5.2.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_03_Percentages (%) of Food Supply Quantity in Western Europe.png"/>
-            <p>Fig 6.1.b</p>
+            <p>Fig 5.2.b</p>
         </center></td>
     </tr>
 </table>
@@ -296,13 +296,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_02_Trends of Food Supply Quantity in Australia & New Zealand_Bar.png"/>
-            <p>Fig 6.1.a</p>
+            <p>Fig 5.3.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_03_Percentages (%) of Food Supply Quantity in Australia & New Zealand.png"/>
-            <p>Fig 6.1.b</p>
+            <p>Fig 5.3.b</p>
         </center></td>
     </tr>
 </table>
@@ -312,13 +312,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_02_Trends of Food Supply Quantity in South-Eastern Asia_Bar.png"/>
-            <p>Fig 6.1.a</p>
+            <p>Fig 5.4.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_03_Percentages (%) of Food Supply Quantity in South-Eastern Asia.png"/>
-            <p>Fig 6.1.b</p>
+            <p>Fig 5.4.b</p>
         </center></td>
     </tr>
 </table>
@@ -328,13 +328,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_02_Trends of Food Supply Quantity in Japan_Bar.png"/>
-            <p>Fig 6.1.a</p>
+            <p>Fig 5.5.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_03_Percentages (%) of Food Supply Quantity in Japan.png"/>
-            <p>Fig 6.1.b</p>
+            <p>Fig 5.5.b</p>
         </center></td>
     </tr>
 </table>
@@ -344,13 +344,13 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_02_Trends of Food Supply Quantity in Republic Of Korea_Bar.png"/>
-            <p>Fig 6.1.a</p>
+            <p>Fig 5.6.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply quantity (gcapitaday)_01_03_Percentages (%) of Food Supply Quantity in Republic Of Korea.png"/>
-            <p>Fig 6.1.b</p>
+            <p>Fig 5.6.b</p>
         </center></td>
     </tr>
 </table>
@@ -362,19 +362,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in China Mainland.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 6.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_02_Trends of Food Supply in China Mainland_Bar.png"/>
-            <p>Fig 1.1.b</p>
+            <p>Fig 6.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_03_Percentages (%) of Food Supply in China Mainland.png"/>
-            <p>Fig 1.1.c</p>
+            <p>Fig 6.1.c</p>
             <img src="">
         </center></td>
     </tr>
@@ -386,7 +386,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_02_Changes in World Rankings of China Mainland Per Capita Food Supply .png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 7.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -397,19 +397,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply (kcalcapitaday)_03_01_Food Supply _Animal Products_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 8.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply (kcalcapitaday)_03_01_Food Supply _Animal Products_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 8.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Food supply (kcalcapitaday)_03_01_Food Supply _Animal Products_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 8.1.c</p>
         </center></td>
     </tr>
 </table>
@@ -420,7 +420,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in Northern America.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 9.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -431,7 +431,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in Western Europe.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 9.2.a</p>
         </center></td>
     </tr>
 </table>
@@ -442,7 +442,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in Australia & New Zealand.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 9.3.a</p>
         </center></td>
     </tr>
 </table>
@@ -454,7 +454,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in South-Eastern Asia.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 9.4.a</p>
         </center></td>
     </tr>
 </table>
@@ -466,7 +466,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in Japan.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 9.5.a</p>
         </center></td>
     </tr>
 </table>
@@ -478,7 +478,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Food supply (kcalcapitaday)_01_01_Trends of Food Supply in Republic Of Korea.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 9.6.a</p>
         </center></td>
     </tr>
 </table>
@@ -490,19 +490,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in China Mainland.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 10.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_02_Trends of Protein Supply Quantity in China Mainland_Bar.png"/>
-            <p>Fig 1.1.b</p>
+            <p>Fig 10.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_03_Percentages (%) of Protein Supply Quantity in China Mainland.png"/>
-            <p>Fig 1.1.c</p>
+            <p>Fig 10.1.c</p>
             <img src="">
         </center></td>
     </tr>
@@ -514,7 +514,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_02_Changes in World Rankings of China Mainland Per Capita Protein Supply Quantity .png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 11.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -525,19 +525,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Protein supply quantity (gcapitaday)_03_01_Protein Supply Quantity _Animal Products_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <p>Fig 12.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Protein supply quantity (gcapitaday)_03_01_Protein Supply Quantity _Animal Products_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <p>Fig 12.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Protein supply quantity (gcapitaday)_03_01_Protein Supply Quantity _Animal Products_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <p>Fig 12.1.c</p>
         </center></td>
     </tr>
 </table>
@@ -548,7 +548,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Northern America.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 13.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -559,7 +559,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Western Europe.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 13.2.a</p>
         </center></td>
     </tr>
 </table>
@@ -570,7 +570,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Australia & New Zealand.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 13.3.a</p>
         </center></td>
     </tr>
 </table>
@@ -582,7 +582,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in South-Eastern Asia.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 13.4.a</p>
         </center></td>
     </tr>
 </table>
@@ -594,7 +594,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Japan.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 13.5.a</p>
         </center></td>
     </tr>
 </table>
@@ -606,7 +606,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Protein supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Republic Of Korea.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 13.6.a</p>
         </center></td>
     </tr>
 </table>
@@ -618,19 +618,19 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in China Mainland.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 14.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_02_Trends of Fat Supply Quantity in China Mainland_Bar.png"/>
-            <p>Fig 1.1.b</p>
+            <p>Fig 14.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_03_Percentages (%) of Fat Supply Quantity in China Mainland.png"/>
-            <p>Fig 1.1.c</p>
+            <p>Fig 14.1.c</p>
             <img src="">
         </center></td>
     </tr>
@@ -642,7 +642,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_02_Changes in World Rankings of China Mainland Per Capita Fat Supply Quantity .png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 15.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -652,20 +652,20 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Fat supply quantity (gcapitaday)_03_01_Protein Supply Quantity _Animal Products_1973.png"/>
-            <p>Fig 3.1.a</p>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Fat supply quantity (gcapitaday)_03_01_Fat Supply Quantity _Animal Products_1973.png"/>
+            <p>Fig 16.1.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Fat supply quantity (gcapitaday)_03_01_Protein Supply Quantity _Animal Products_1993.png"/>
-            <p>Fig 3.1.b</p>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Fat supply quantity (gcapitaday)_03_01_Fat Supply Quantity _Animal Products_1993.png"/>
+            <p>Fig 16.1.b</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Fat supply quantity (gcapitaday)_03_01_Protein Supply Quantity _Animal Products_2013.png"/>
-            <p>Fig 3.1.c</p>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/map/Capita_Fat supply quantity (gcapitaday)_03_01_Fat Supply Quantity _Animal Products_2013.png"/>
+            <p>Fig 16.1.c</p>
         </center></td>
     </tr>
 </table>
@@ -676,7 +676,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in Northern America.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 17.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -687,7 +687,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in Western Europe.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 18.1.a</p>
         </center></td>
     </tr>
 </table>
@@ -698,7 +698,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in Australia & New Zealand.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 18.2.a</p>
         </center></td>
     </tr>
 </table>
@@ -710,7 +710,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in South-Eastern Asia.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 18.3.a</p>
         </center></td>
     </tr>
 </table>
@@ -722,7 +722,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in Japan.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 18.4.a</p>
         </center></td>
     </tr>
 </table>
@@ -734,7 +734,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Republic Of Korea.png"/>
-            <p>Fig 2.1.a</p>
+            <p>Fig 18.5.a</p>
         </center></td>
     </tr>
 </table>
