@@ -733,7 +733,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 <table>
     <tr>
         <td><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Protein Supply Quantity in Republic Of Korea.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_FoodSupply_LivestockFish/img/Capita_Fat supply quantity (gcapitaday)_01_01_Trends of Fat Supply Quantity in Republic Of Korea.png"/>
             <p>Fig 18.5.a</p>
         </center></td>
     </tr>
