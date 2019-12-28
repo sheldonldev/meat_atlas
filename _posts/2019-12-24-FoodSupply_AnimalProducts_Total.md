@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meat Atlas of China (mainland) - Domestic Consumption of Animal Produced Food
+title: Meat Atlas of China mainland - Domestic Consumption of Animal Produced Food
 published_at: "2019-12-24"
 updated_at: "2019-12-24"
 author: Good Food Data
@@ -20,7 +20,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
-## Trends of Food Supply of Main Animal Products of China (manland)
+## Trends of Food Supply of Main Animal Products of China mainland
 
 <table>
     <tr>
@@ -44,7 +44,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Changes in World Rankings of China (mainland)
+## Changes in World Rankings of China mainland
 
 <table>
     <tr>

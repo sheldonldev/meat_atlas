@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meat Atlas of China (mainland) - Domestic Consumption of Animal Produced Food
+title: Meat Atlas of China mainland - Domestic Consumption of Animal Produced Food
 published_at: "2019-12-24"
 updated_at: "2019-12-25"
 author: Good Food Data
@@ -21,7 +21,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 ---
 
 # Per Capita Food Supply Quantity (g/capita/day)
-## Trends of Food Supply for Per Capita of Main Animal Products of China (manland)
+## Trends of Food Supply for Per Capita of Main Animal Products of China mainland
 
 <table>
     <tr>
@@ -45,7 +45,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Changes in World Rankings of China (mainland)
+## Changes in World Rankings of China mainland
 
 <table>
     <tr>
@@ -356,7 +356,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 # Per Capita Food supply of Calories from Animal Products
-## Trends of Food Supply of Calories from Animal Products for Per Capita in China (manland)
+## Trends of Food Supply of Calories from Animal Products for Per Capita in China mainland
 
 <table>
     <tr>
@@ -380,7 +380,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Changes in World Rankings of China (mainland) of the Calories Per Capita Supply
+## Changes in World Rankings of China mainland of the Calories Per Capita Supply
 
 <table>
     <tr>
@@ -484,7 +484,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 # Per Capita Food supply of Protein from Animal Products
-## Trends of Food Supply of Protein from Animal Products for Per Capita in China (manland)
+## Trends of Food Supply of Protein from Animal Products for Per Capita in China mainland
 
 <table>
     <tr>
@@ -508,7 +508,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Changes in World Rankings of China (mainland) of the Protein Per Capita Supply
+## Changes in World Rankings of China mainland of the Protein Per Capita Supply
 
 <table>
     <tr>
@@ -612,7 +612,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 # Per Capita Food supply of Fat from Animal Products
-## Trends of Food Supply of Fat from Animal Products for Per Capita in China (manland)
+## Trends of Food Supply of Fat from Animal Products for Per Capita in China mainland
 
 <table>
     <tr>
@@ -636,7 +636,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Changes in World Rankings of China (mainland) of the Fat Per Capita Supply
+## Changes in World Rankings of China mainland of the Fat Per Capita Supply
 
 <table>
     <tr>
