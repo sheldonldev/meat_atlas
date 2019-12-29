@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meat Atlas of China mainland - Domestic Consumption of Animal Produced Food
+title: Meat Atlas of China Mainland - Domestic Consumption of Animal Products
 published_at: "2019-12-24"
 updated_at: "2019-12-24"
 author: Good Food Data
@@ -20,7 +20,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
-## Trends of Food Supply of Main Animal Products of China mainland
+## Trends of food supply of main animal Products in China mainland
 
 <table>
     <tr>
@@ -44,7 +44,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Changes in World Rankings of China mainland
+## Changes in world rankings of China mainland
 
 <table>
     <tr>
@@ -55,7 +55,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## World Map as Time Changing
+## World map as time changing
 ### Pigmeat
 <table>
     <tr>
@@ -188,7 +188,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-### Milk-Excluding Butter
+### Milk-excluding butter
 <table>
     <tr>
         <td><center>
@@ -211,8 +211,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-## Compare With OECD Total
-### Trend Lines
+## Compare with OECD total
+### Trend lines
 <table>
     <tr>
         <td><center>
@@ -258,8 +258,8 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-### Share in the World 
-#### Absolute Values
+### Share in the world 
+#### Absolute values
 <table>
     <tr>
         <td><center>
@@ -275,7 +275,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-#### Percentages (Show in Bar)
+#### Percentages (show in bar)
 <table>
     <tr>
         <td><center>
@@ -291,7 +291,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-#### Percentages (Show in Pie)
+#### Percentages (show in pie)
 <table>
     <tr>
         <td><center>
@@ -307,7 +307,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Compare with World's Top 5
+## Compare with world top 5
 
 <table>
     <tr>
@@ -354,7 +354,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## Some Other Areas Trends
+## Some other areas trends
 
 ### North America
 <table>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meat Atlas of China mainland - Domestic Production of Animal Produced Food
+title: Meat Atlas of China Mainland - Domestic Production of Animal Products
 published_at: "2019-12-14"
 updated_at: "2019-12-16"
 author: Good Food Data
@@ -20,7 +20,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
-## Production Trends of Animal Produced Food in China mainland 
+## Production trends of animal products in China mainland 
 
 <table>
     <tr>
@@ -44,7 +44,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-##  The Production in Different Areas and Areas' Percentages in China mainland 
+##  The production in different areas and percentages in China mainland 
 
 <table>
     <tr>
@@ -201,7 +201,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-##  Main Indicators of Animal Productivity
+##  Main indicators of animal productivity
 
 <table>
     <tr>
@@ -240,7 +240,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-## Captured and Aquacultured Aquatic Production
+## Captured and aquacultured aquatic production
 
 <table>
     <tr>
