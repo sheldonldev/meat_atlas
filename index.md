@@ -1,22 +1,22 @@
-# Documentation
+## Documentation
 
 - [Coming soon ...]()
 
-# Population & Key Indicators of Macro-Statistics
+## Population & Key Indicators of Macro-Statistics
 
 - [Population, Coming soon ...]()
 
 - [Key Indicators of Macro-Statistics, Coming soon ...]()
 
-# Atlas of Animal Produced Food
+## Atlas of Animal Produced Food
 
 - [Production, Import & Export Quantities of Animal Products](_posts/2019-12-30-CommodityBalances_Prod-Imp-Exp.md)
 
-- [Feed & Losses of of Animal Products](_posts/2019-12-30-CommodityBalances_Feed-Losses.md)
+- [Food & Feed Supplies and Losses of of Animal Products](_posts/2019-12-30-CommodityBalances_Feed-Losses.md)
 
-- [Total Food Supply of Animal Products ](_posts/2019-12-24-FoodSupply_AnimalProducts_Total.md)
+- [Food Supply of Animal Products - Total](_posts/2019-12-24-FoodSupply_AnimalProducts_Total.md)
 
-- [Per Capita Food Supply of Animal Products](_posts/2019-12-24-FoodSupply_AnimalProducts_PerCapita.md)
+- [Food Supply of Animal Products - Per Capita](_posts/2019-12-24-FoodSupply_AnimalProducts_PerCapita.md)
 
 - [China Mainland Domestic Production of Animal Products](_posts/2019-12-18-MeatAtlas_ChinaMainland_DomesticAnimalProduction.md)
 
