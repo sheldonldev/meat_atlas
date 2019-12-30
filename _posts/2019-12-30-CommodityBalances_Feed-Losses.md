@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Domestic Supply and Food Supply, Feed and Losses of Animal Products
+title: Domestic Supply and Food Supply, Feed & Losses of Animal Products
 published_at: "2019-12-30"
 updated_at: "2019-12-30"
 author: Good Food Data

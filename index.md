@@ -12,7 +12,7 @@
 
 - [Domestic Supply and Production, Import & Export Quantities of Animal Products](_posts/2019-12-30-CommodityBalances_Prod-Imp-Exp.md)
 
-- [Domestic Supply and Food Supply, Feed and Losses of Animal Products](_posts/2019-12-30-CommodityBalances_Feed-Losses.md)
+- [Domestic Supply and Food Supply, Feed & Losses of Animal Products](_posts/2019-12-30-CommodityBalances_Feed-Losses.md)
 
 - [Food Supply of Animal Products - Total](_posts/2019-12-24-FoodSupply_AnimalProducts_Total.md)
 
