@@ -310,7 +310,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
     <tr>
         <td ><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Production of Bovine Meat of China Mainland with OECD Total.png.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Production of Bovine Meat of China Mainland with OECD Total.png"/>
             <p>Fig 1.1.c</p>
             <img src="">
         </center></td>
@@ -628,7 +628,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
     <tr>
         <td ><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Import Quantity of Bovine Meat of China Mainland with OECD Total.png.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Import Quantity of Bovine Meat of China Mainland with OECD Total.png"/>
             <p>Fig 1.1.c</p>
             <img src="">
         </center></td>
@@ -938,7 +938,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
     <tr>
         <td ><center>
-            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Export Quantity of Bovine Meat of China Mainland with OECD Total.png.png"/>
+            <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Export Quantity of Bovine Meat of China Mainland with OECD Total.png"/>
             <p>Fig 1.1.c</p>
             <img src="">
         </center></td>
