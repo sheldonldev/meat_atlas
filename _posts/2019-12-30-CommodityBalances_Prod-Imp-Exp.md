@@ -36,7 +36,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 ### Production, import & export quantities respectively
-
+#### Pigmeat
 <table>
     <tr>
         <td><center>
@@ -44,6 +44,10 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <p>Fig 1.1.a</p>
         </center></td>
     </tr>
+</table>
+
+#### Bovine Meat
+<table>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_01_Production, Import & Export Quantity of Bovine Meat in China mainland.png"/>
@@ -51,12 +55,20 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="">
         </center></td>
     </tr>
+</table>
+
+#### Mutton & Goat Meat
+<table>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_01_Production, Import & Export Quantity of Mutton & Goat Meat in China mainland.png"/>
             <p>Fig 1.1.a</p>
         </center></td>
     </tr>
+</table>
+
+#### Poultry Meat
+<table>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_01_Production, Import & Export Quantity of Poultry Meat in China mainland.png"/>
@@ -64,12 +76,20 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="">
         </center></td>
     </tr>
+</table>
+
+#### Fish, Seafood
+<table>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_01_Production, Import & Export Quantity of Fish, Seafood in China mainland.png"/>
             <p>Fig 1.1.a</p>
         </center></td>
     </tr>
+</table>
+
+#### Eggs
+<table>
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_01_Production, Import & Export Quantity of Eggs in China mainland.png"/>
@@ -77,6 +97,10 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
             <img src="">
         </center></td>
     </tr>
+</table>
+
+#### Milk - Excluding Butter
+<table>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_01_Production, Import & Export Quantity of Milk Excluding Butter in China mainland.png"/>
@@ -107,6 +131,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ### World map of production
 
+#### Pigmeat
 <table>
     <tr>
         <td><center>
@@ -130,6 +155,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Bovine Meat
 <table>
     <tr>
         <td><center>
@@ -153,6 +179,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Mutton & Goat Meat
 <table>
     <tr>
         <td><center>
@@ -176,6 +203,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Poultry Meat
 <table>
     <tr>
         <td><center>
@@ -199,6 +227,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Fish, Seafood
 <table>
     <tr>
         <td><center>
@@ -222,6 +251,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Eggs
 <table>
     <tr>
         <td><center>
@@ -245,6 +275,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Milk - Excluding Butter
 <table>
     <tr>
         <td><center>
@@ -418,7 +449,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 ### World map of import quantity
-
+#### Pigmeat
 <table>
     <tr>
         <td><center>
@@ -442,6 +473,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Bovine Meat
 <table>
     <tr>
         <td><center>
@@ -465,6 +497,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Mutton & Goat Meat
 <table>
     <tr>
         <td><center>
@@ -488,6 +521,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Poultry Meat
 <table>
     <tr>
         <td><center>
@@ -511,6 +545,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Fish, Seafood
 <table>
     <tr>
         <td><center>
@@ -534,6 +569,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Eggs
 <table>
     <tr>
         <td><center>
@@ -557,6 +593,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Milk - Excluding Butter
 <table>
     <tr>
         <td><center>
@@ -721,7 +758,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 ### World map of export quantity
-
+#### Pigmeat
 <table>
     <tr>
         <td><center>
@@ -745,6 +782,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Bovine Meat
 <table>
     <tr>
         <td><center>
@@ -768,6 +806,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Mutton & Goat Meat
 <table>
     <tr>
         <td><center>
@@ -791,6 +830,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Poultry Meat
 <table>
     <tr>
         <td><center>
@@ -814,6 +854,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Fish, Seafood
 <table>
     <tr>
         <td><center>
@@ -837,6 +878,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Eggs
 <table>
     <tr>
         <td><center>
@@ -860,6 +902,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
+#### Milk - Excluding Butter
 <table>
     <tr>
         <td><center>
