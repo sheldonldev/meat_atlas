@@ -1,19 +1,23 @@
-# Meat Atlas
+# Documentation
 
-<<<<<<< HEAD
-- [Meat Atlas of China mainland - Domestic Consumption of Animal Produced Food](_posts/2019-12-15-MeatAtlas_ChinaMainland_DomesticFoodConsumption.md)
+- [Coming soon ...]()
 
-- [Meat Atlas of China mainland - Domestic Production of Animal Produced Food](_posts/2019-12-18-MeatAtlas_ChinaMainland_DomesticAnimalProduction.md)
-=======
-- [Meat Atlas of China Mainland - Domestic Consumption of Animal Products](_posts/2019-12-15-MeatAtlas_ChinaMainland_DomesticFoodConsumption.md)
+# Population & Key Indicators of Macro-Statistics
 
-- [Meat Atlas of China Mainland - Domestic Production of Animal Products](_posts/2019-12-18-MeatAtlas_ChinaMainland_DomesticAnimalProduction.md)
->>>>>>> 8ac4584037ba5462813fecf88c748bd2f5fe323a
+- [Population, Coming soon ...]()
 
-- [Meat Atlas - Total Food Supply of Animal Products ](_posts/2019-12-24-FoodSupply_AnimalProducts_Total.md)
+- [Key Indicators of Macro-Statistics, Coming soon ...]()
 
-<<<<<<< HEAD
-- [Meat Atlas - Food Supply of Animal Products (Per Capita)](_posts/2019-12-24-FoodSupply_AnimalProducts_PerCapita.md)
-=======
-- [Meat Atlas - Per Capita Food Supply of Animal Products](_posts/2019-12-24-FoodSupply_AnimalProducts_PerCapita.md)
->>>>>>> 8ac4584037ba5462813fecf88c748bd2f5fe323a
+# Atlas of Animal Produced Food
+
+- [Production, Import & Export Quantities of Animal Products](_posts/2019-12-30-CommodityBalances_Prod-Imp-Exp.md)
+
+- [Feed & Losses of of Animal Products](_posts/2019-12-30-CommodityBalances_Feed-Losses.md)
+
+- [Total Food Supply of Animal Products ](_posts/2019-12-24-FoodSupply_AnimalProducts_Total.md)
+
+- [Per Capita Food Supply of Animal Products](_posts/2019-12-24-FoodSupply_AnimalProducts_PerCapita.md)
+
+- [China Mainland Domestic Production of Animal Products](_posts/2019-12-18-MeatAtlas_ChinaMainland_DomesticAnimalProduction.md)
+
+- [China Mainland Domestic Consumption of Animal Products](_posts/2019-12-15-MeatAtlas_ChinaMainland_DomesticFoodConsumption.md)
