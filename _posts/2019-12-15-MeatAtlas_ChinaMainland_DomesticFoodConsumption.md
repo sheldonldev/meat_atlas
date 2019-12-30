@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meat Atlas of China (mainland) - Domestic Consumption of Animal Produced Food
+title: Meat Atlas of China Mainland - Domestic Consumption of Animal Products
 published_at: "2019-12-14"
 updated_at: "2019-12-16"
 author: Good Food Data
@@ -21,7 +21,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 ---
 
 
-## 1. Animals Products Consumption of Provinces as Percentages of the Nation
+##  Animals products consumption of provinces as percentages of the nation
 
 <table>
     <tr>
@@ -178,7 +178,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 </table>
 
 
-## 2. Percentages of Animal Produced Food (Gross) in Daily Intake
+##  Percentages of animal products total in daily intake
 
 <table>
     <!--Map of Gross-->
@@ -228,7 +228,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     </tr>
 </table>
 
-## 3. Percentages of Animal Produced Food (Different Kinds) in Daily Intake
+##  Percentages of animal products separate in daily Intake
 
 <table>
     <!--Map of Kinds of-->
