@@ -34,7 +34,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_02_Food & Feed Supply Quantity and Losses of Bovine Meat in China mainland.png"/>
-            <p>Fig 1.1.c</p>
+            <p>Fig 1.1.b</p>
             <img src="">
         </center></td>
     </tr>
@@ -45,7 +45,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_02_Food & Feed Supply Quantity and Losses of Mutton & Goat Meat in China mainland.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 1.1.c</p>
         </center></td>
     </tr>
 </table>
@@ -55,7 +55,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_02_Food & Feed Supply Quantity and Losses of Poultry Meat in China mainland.png"/>
-            <p>Fig 1.1.c</p>
+            <p>Fig 1.1.d</p>
             <img src="">
         </center></td>
     </tr>
@@ -66,7 +66,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_02_Food & Feed Supply Quantity and Losses of Fish, Seafood in China mainland.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 1.1.e</p>
         </center></td>
     </tr>
 </table>
@@ -76,7 +76,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td ><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_02_Food & Feed Supply Quantity and Losses of Eggs in China mainland.png"/>
-            <p>Fig 1.1.c</p>
+            <p>Fig 1.1.f</p>
             <img src="">
         </center></td>
     </tr>
@@ -87,7 +87,7 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyItems_02_Food & Feed Supply Quantity and Losses of Milk Excluding Butter in China mainland.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 1.1.g</p>
         </center></td>
     </tr>
 </table>
@@ -106,15 +106,16 @@ Please see:
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_01_01Trends of Feed in China Mainland_Line.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 2.1.a</p>
         </center></td>
     </tr>
 </table>
+
 <table>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_02_Changes in World Rankings of China Mainland Feed.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 2.2.a</p>
         </center></td>
     </tr>
 </table>
@@ -124,13 +125,13 @@ Please see:
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Feed of Fish, Seafood of China Mainland with OECD Total.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 2.3.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Feed of Milk Excluding Butter of China Mainland with OECD Total.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 2.3.b</p>
         </center></td>
     </tr>
 </table>
@@ -142,15 +143,16 @@ Please see:
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_01_01Trends of Losses in China Mainland_Line.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 3.1.a</p>
         </center></td>
     </tr>
 </table>
+
 <table>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_02_Changes in World Rankings of China Mainland Losses.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 3.2.a</p>
         </center></td>
     </tr>
 </table>
@@ -160,13 +162,13 @@ Please see:
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Losses of Fish, Seafood of China Mainland with OECD Total.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 3.3.a</p>
         </center></td>
     </tr>
     <tr>
         <td><center>
             <img src="https://raw.githubusercontent.com/tane-rs/meat_atlas/gh-pages/results/FAO_CommodityBalances_LivestockFish/img/GroupbyElements_03_02_Compare Losses of Milk Excluding Butter of China Mainland with OECD Total.png"/>
-            <p>Fig 1.1.a</p>
+            <p>Fig 3.3.b</p>
         </center></td>
     </tr>
 </table>
