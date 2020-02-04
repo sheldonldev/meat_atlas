@@ -1,12 +1,12 @@
 ## Documentation
 
-- [Coming soon ...]()
+- [Coming ...]()
 
 ## Population & Key Indicators of Macro-Statistics
 
-- [Population, Coming soon ...]()
+- [Population, Coming ...]()
 
-- [Key Indicators of Macro-Statistics, Coming soon ...]()
+- [Key Indicators of Macro-Statistics, Coming ...]()
 
 ## Atlas of Animal Produced Food
 
