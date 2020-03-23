@@ -20,10 +20,6 @@ Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
 
 ---
 
-# 中国肉食数据图谱摘要China Meat Atlas Summary
-
-
-<br>
 
 ## 前言 Foreword
 
@@ -39,7 +35,7 @@ With 20% of the world's population, the behavioral habits of Chinese people play
 
 This research focuses on the production and consumption of animal foods in China, and uses the data related to animal husbandry and fisheries in the FAO database, as well as the data related to animal husbandry production and people's consumption levels in China's National Bureau of Statistics. The purpose is to describe the following questions: What is the international status of China's animal food production and consumption levels, whether the consumption level and nutritional needs are balanced, and the characteristics of different provinces in China.
 
-本项目开发了一套数据自动可视化的工具，例如FAO数据库均由该工具自动生成图片，开发者不对数据做结论，仅列举部分数据图表供参考。
+本项目开发了一套数据可视化的工具，例如FAO数据库均由该工具自动生成图片，开发者暂不对数据做结论，仅列举部分数据图表供参考。
 
 This study also developed a set of automatic data visualization tools for the datasets of the FAO database. The data from FAO is generated to figures by this tool automatically, data developers don’t make any conclusion to data, and only demonstrate some parts of data figure in the results chapter of this document as follows for your reference.
 
@@ -47,7 +43,7 @@ This study also developed a set of automatic data visualization tools for the da
 
 ## 项目愿景 Project vision
 
-随着不断积累的数据量和分析模型，我们期待在不久的将来，该项目成为一个可实时更新的在线交互平台，提供更好用的数据可视化和分析的应用工具，其数据图表将成为开源的跨行业通用的材料，任何符合我们的规则条件和使用协议的人及机构，均可以引用数据图表到他们的工作成果里发布。
+随着不断积累的数据量和分析模型，我们期待在不久的将来，该项目成为一个可实时更新的在线交互平台，提供更好用的数据可视化和分析的应用工具，其数据图表将成为开源的跨行业通用的材料，任何符合其规则条件和使用协议的人及机构，均可以引用数据图表到他们的工作成果里发布。
 
 目标人群为相关研究者，政策制定者，以及感兴趣或想探索相关行业数据的任何普通人，涉及行业包括并不限于农业，食物，动物，健康，环保，公益，经济，传媒，科普，学术科研 ……
 
