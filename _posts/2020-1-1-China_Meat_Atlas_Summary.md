@@ -56,9 +56,9 @@ Target audiences are related researcher, policy maker and common people anybody 
 
 ## 致谢 Acknowledgement
 
-本项目得到良食基金资助，明绿智库Mia MacDonald, Suzanne Lipton 等各位专家的指导，他们针对本文档提出了许多有建设性的意见，截止2019.12月底，各位专家的意见已经更新到本链接页面的数据图谱中<https://tane-rs.github.io/meat_atlas>，本文档将不再更新。
+本项目V1.0版得到良食基金资助，明绿智库Mia MacDonald, Suzanne Lipton 等各位专家的指导，他们针对本文档提出了许多有建设性的意见，截止2019.12月底，各位专家的意见已经更新到本链接页面的数据图谱中<https://tane-rs.github.io/meat_atlas>，本文档将不再更新。
 
-《China meat atlas 中国肉食数据图谱》当前版本为v 1.2，仅实现线上工具自动发静态图。为升级数据版本和用户体验，预告v1.3版本将实现dashboard数据屏幕，有交互功能和更好视觉效果，并增加肉食与健康，环境等部分关系型图，以及尝试来自搜索和社交媒体的非结构化数据源。
+《China meat atlas 中国肉食数据图谱》当前版本为v1.1，仅实现线上工具自动发静态图。为升级数据版本和用户体验，预告v1.2版本将实现dashboard数据屏幕，有交互功能和更好视觉效果，后续版本将增加肉食与健康，环境等部分关系型图，以及尝试来自搜索和社交媒体的非结构化数据源。
 
 <br>
 
