@@ -1,6 +1,26 @@
+---
+layout: default
+title: 中国肉食数据图谱摘要China Meat Atlas Summary
+published_at: "2020-01-01"
+updated_at: "2020-01-01"
+author: Good Food Data
+tags: []
+status: published
+
+---
+
+
+[BACK TO HOME](https://tane-rs.github.io/meat_atlas/)
+
+
+# {{page.title}}
+By {{page.author}} | 
+Published at {{page.published_at | date: "%Y-%m-%d"}} | 
+Updated at {{ page.updated_at | date: "%Y-%m-%d" }}
+
+---
+
 # 中国肉食数据图谱摘要China Meat Atlas Summary
-
-
 
 
 <br>
@@ -63,6 +83,8 @@ Fish & Seafood (Aquatic): mainly include Freshwater Fish, Molluscs, Crustaceans,
 
 China mainland: all web pages use China mainland for 中国大陆; in order to keep consistent with FAO proper noun standards, you can use “China, mainland” or  “China mainland” in meat atlas digital figures.
 
+<br>
+
 ### 缩写 Abbreviation
 
 CONSUMP: Consumption 消费
@@ -85,7 +107,6 @@ FAO: Food and Agriculture Organization of UN 联合国粮农组织
 ## 联系 Contact
 
 良食数据研究组-开发者 GFF data research group- developers
-
 
 小匡 Atom
 tom.fullice@gmail.com
