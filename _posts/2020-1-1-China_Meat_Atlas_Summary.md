@@ -38,7 +38,7 @@ This research focuses on the production and consumption of animal foods in China
 本项目开发了一套数据可视化的工具，例如FAO数据库均由该工具自动生成图片，开发者暂不对数据做结论，仅列举部分数据图表供参考<https://tane-rs.github.io/meat_atlas/2019/12/30/CommodityBalances_Prod-Imp-Exp.html>,**特别说明**，由于本项目使用github管理，可能境内部分地区不能看到图片或流畅使用。
 
 This study also developed a set of automatic data visualization tools for the datasets of the FAO database. The data from FAO is generated to figures by this tool automatically, data developers don’t make any conclusion to data, and only demonstrate some parts of data figure in the results chapter of this document as follows for your reference.
-**Notice: **,As this project is managed in github, it may out of service in parts of China mainland.
+**Notice:**, As this project is managed in github, it may be out of service in parts of China mainland.
 
 <br>
 
